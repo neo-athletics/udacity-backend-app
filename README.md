@@ -17,7 +17,7 @@ To complete this project, you will need to:
 
 ## Link to Elastic Beanstalk endpoint and sample image url
 
-full-stack-app-dev.us-east-1.elasticbeanstalk.com <br/>
+[full-stack-app-dev.us-east-1.elasticbeanstalk.com](http://full-stack-app-dev.us-east-1.elasticbeanstalk.com/) <br/>
 ex. image url : https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 ## Image of Elastic Beanstalk application deployment
